@@ -20,3 +20,7 @@ My name is Jax and I like to party!
 [harry](/member4.md)
 hey im harry and im dust at coding
 
+[Luis](/member2.md)
+Whats up my dudes my name is Luis.
+
+
