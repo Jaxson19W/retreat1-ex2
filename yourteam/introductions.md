@@ -15,3 +15,4 @@ My name is Jax and I like to party!
 Links to each team member's bio page. Add a link for each team member.
 
 [Team Member 1](/member1.md)
+My name is Jax and I like to party!
