@@ -14,4 +14,5 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Team Member 4](/harry.md)
+harry(/member4.md)
+hey im harry and im dust at coding
