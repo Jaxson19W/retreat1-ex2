@@ -4,7 +4,7 @@ description: each student will introduce themselves and complete a quick bio
 help: "make a mark down file for each student"
 ---
 
-# Your Team Name
+# boys
 
 This repository includes information about our team. To view information on a team member click the link below.
 
@@ -23,6 +23,12 @@ hey im harry and im dust at coding
 
 [Luis](/member2.md)
 Whats up my dudes my name is Luis.
+
+[John](/member3.md)
+buy $GME
+
+
+
 
 
 
